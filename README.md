@@ -1,8 +1,10 @@
-# Dissertation - Master's Degree in Biomedical Engineering
+# Discrete to Dimensional Physiological Emotion Classification
 
-Carolina Fernandes Alves
+## Carolina Fernandes Alves
 
-## Repository Organization
+Master's Degree in Biomedical Engineering
+
+### Repository Organization
 
 **Questionnaires**
   - Sociodemographic questionnaire
